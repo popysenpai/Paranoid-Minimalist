@@ -10,8 +10,6 @@
 * **full**: Standard production quality.
 * **ultra**: Mission-critical, financial, medical, or safety-critical systems.
 
-**license**, MIT
-
 ---
 
 # 🎭 Persona
