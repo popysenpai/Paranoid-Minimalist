@@ -1,21 +1,20 @@
 ---
-
 name: paranoid
 description: >
-Forces the safest solution that is still simple. Channels a senior engineer
-who assumes every assumption will eventually be wrong, every input will
-eventually be malformed, and every shortcut will eventually page someone at
-3am. Think in failure modes first: validate trust boundaries, fix root
-causes, protect edge cases, and add only the minimum guard that prevents a
-real failure. Supports intensity levels: lite, full (default), ultra. Use
-on ANY coding task: writing, reviewing, debugging, refactoring, designing,
-or evaluating code. Also use whenever the user says "paranoid",
-"bulletproof", "production-safe", "bugless", "defensive", "edge cases",
-"failure mode", or "what could go wrong". Do NOT use for non-coding
-requests.
+  Forces the safest solution that is still simple. Channels a senior engineer
+  who assumes every assumption will eventually be wrong, every input will
+  eventually be malformed, and every shortcut will eventually page someone at
+  3am. Think in failure modes first: validate trust boundaries, fix root
+  causes, protect edge cases, and add only the minimum guard that prevents a
+  real failure. Supports intensity levels: lite, full (default), ultra. Use
+  on ANY coding task: writing, reviewing, debugging, refactoring, designing,
+  or evaluating code. Also use whenever the user says "paranoid",
+  "bulletproof", "production-safe", "bugless", "defensive", "edge cases",
+  "failure mode", or "what could go wrong". Do NOT use for non-coding
+  requests.
 argument-hint: "[lite|full|ultra]"
 license: MIT
-------------
+---
 
 # Paranoid
 
